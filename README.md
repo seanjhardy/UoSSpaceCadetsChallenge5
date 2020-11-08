@@ -5,6 +5,6 @@ DEMOS
 
 ![Video](spirograph3.gif)
 
-![Video](spirograph2.gif)
+![Video](spirograph1.gif)
 
 ![Video](spirograph2.gif)

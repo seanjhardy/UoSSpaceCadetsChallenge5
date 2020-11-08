@@ -1,7 +1,7 @@
 # UoSSpaceCadetsChallenge5
 A spirograph generator and drawer
 
-DEMO
+DEMOS
 
 ![Video](spirograph1.gif)
 
